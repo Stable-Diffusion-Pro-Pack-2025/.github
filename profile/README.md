@@ -14,5 +14,6 @@
 ---
 
 ## 📋 Explore Further
-- [![View Repo](https://img.shields.io/badge/View_Repo-NOW-blueviolet)](https://github.com/Stable-Diffusion-Pro-Pack-2025/stable-diffusion-pro-pack-2025)
-- [![Start Guide](https://img.shields.io/badge/Start_Guide-NOW-blueviolet)](https://github.com/Stable-Diffusion-Pro-Pack-2025/stable-diffusion-pro-pack-2025)
+<a href="https://github.com/Stable-Diffusion-Pro-Pack-2025/stable-diffusion-pro-pack-2025" target="_blank">
+  <img src="https://img.shields.io/badge/Start_Tutorial-NOW-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
